@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/lichenkao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/lichenkao/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/lichenkao/LeetCode/tree/master/0605-can-place-flowers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lichenkao/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -26,6 +27,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/lichenkao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lichenkao/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/lichenkao/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2502-sort-the-people](https://github.com/lichenkao/LeetCode/tree/master/2502-sort-the-people) |
@@ -66,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/lichenkao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/lichenkao/LeetCode/tree/master/0283-move-zeroes) |
 ## Counting
 |  |
