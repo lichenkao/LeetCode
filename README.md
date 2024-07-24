@@ -16,15 +16,18 @@
 |  |
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lichenkao/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1777-determine-if-two-strings-are-close](https://github.com/lichenkao/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2502-sort-the-people](https://github.com/lichenkao/LeetCode/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/lichenkao/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2502-sort-the-people](https://github.com/lichenkao/LeetCode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lichenkao/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1777-determine-if-two-strings-are-close](https://github.com/lichenkao/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2502-sort-the-people](https://github.com/lichenkao/LeetCode/tree/master/2502-sort-the-people) |
 ## Queue
 |  |
@@ -64,4 +67,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/lichenkao/LeetCode/tree/master/0283-move-zeroes) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/lichenkao/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
