@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/lichenkao/LeetCode/tree/master/0605-can-place-flowers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lichenkao/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1293-three-consecutive-odds](https://github.com/lichenkao/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lichenkao/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lichenkao/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/lichenkao/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
