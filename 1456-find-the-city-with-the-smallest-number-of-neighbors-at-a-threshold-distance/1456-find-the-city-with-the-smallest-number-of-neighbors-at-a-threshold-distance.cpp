@@ -11,9 +11,9 @@ public:
             dis[edge[1]][edge[0]] = edge[2];
         }
 
-        for (int k = 0; k < n; ++k) {
-            for (int i = 0; i < n; ++i) {
-                for (int j = 0; j < n; ++j) {
+        for (int k = 0; k < n; k++) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
                     if (dis[i][k] < INT_MAX && dis[k][j] < INT_MAX && dis[i][j] > dis[i][k] + dis[k][j]) {
                         dis[i][j] = dis[i][k] + dis[k][j];
                     }
