@@ -24,6 +24,7 @@
 ## String
 |  |
 | ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/lichenkao/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1777-determine-if-two-strings-are-close](https://github.com/lichenkao/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2502-sort-the-people](https://github.com/lichenkao/LeetCode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lichenkao/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -113,9 +114,14 @@
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lichenkao/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/lichenkao/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lichenkao/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lichenkao/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/lichenkao/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
