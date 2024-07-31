@@ -8,6 +8,7 @@
 | [0283-move-zeroes](https://github.com/lichenkao/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/lichenkao/LeetCode/tree/master/0605-can-place-flowers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lichenkao/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1196-filling-bookcase-shelves](https://github.com/lichenkao/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/lichenkao/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/lichenkao/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lichenkao/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -113,6 +114,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/lichenkao/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lichenkao/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lichenkao/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Shortest Path
