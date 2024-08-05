@@ -127,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/lichenkao/LeetCode/tree/master/0062-unique-paths) |
 | [1196-filling-bookcase-shelves](https://github.com/lichenkao/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lichenkao/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lichenkao/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lichenkao/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lichenkao/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lichenkao/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
