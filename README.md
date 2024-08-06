@@ -28,6 +28,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/lichenkao/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lichenkao/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lichenkao/LeetCode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lichenkao/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [2502-sort-the-people](https://github.com/lichenkao/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/lichenkao/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lichenkao/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lichenkao/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/lichenkao/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/lichenkao/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2502-sort-the-people](https://github.com/lichenkao/LeetCode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lichenkao/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
 | ------- |
@@ -82,6 +85,7 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/lichenkao/LeetCode/tree/master/0605-can-place-flowers) |
 | [1285-balance-a-binary-search-tree](https://github.com/lichenkao/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lichenkao/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +97,7 @@
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/lichenkao/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lichenkao/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lichenkao/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
