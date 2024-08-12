@@ -63,6 +63,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lichenkao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lichenkao/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
@@ -101,6 +102,7 @@
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lichenkao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lichenkao/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/lichenkao/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -111,12 +113,14 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lichenkao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lichenkao/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/lichenkao/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lichenkao/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lichenkao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lichenkao/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/lichenkao/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Divide and Conquer
@@ -153,4 +157,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lichenkao/LeetCode/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lichenkao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lichenkao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
