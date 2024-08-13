@@ -22,7 +22,7 @@ private:
 
             combination.push_back(candidates[i]);
             backtrack(candidates, target - candidates[i], i + 1, combination, final);
-            combination.pop_back();  // Backtrack
+            combination.pop_back();
         }
     }
 };
