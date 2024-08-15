@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/lichenkao/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/lichenkao/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/lichenkao/LeetCode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/lichenkao/LeetCode/tree/master/0890-lemonade-change) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lichenkao/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1196-filling-bookcase-shelves](https://github.com/lichenkao/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/lichenkao/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/lichenkao/LeetCode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/lichenkao/LeetCode/tree/master/0890-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/lichenkao/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lichenkao/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
