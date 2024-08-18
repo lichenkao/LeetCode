@@ -26,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/lichenkao/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lichenkao/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lichenkao/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/lichenkao/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -66,6 +67,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/lichenkao/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lichenkao/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lichenkao/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lichenkao/LeetCode/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/lichenkao/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/lichenkao/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lichenkao/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lichenkao/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lichenkao/LeetCode/tree/master/0062-unique-paths) |
+| [0264-ugly-number-ii](https://github.com/lichenkao/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Combinatorics
 |  |
 | ------- |
